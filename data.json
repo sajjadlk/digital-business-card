@@ -9,12 +9,12 @@ var obj =
 	"ganalytics": "UA-629709-5",
 	
 	"name": {
-		"first": "Avi",
-		"last": "Alkalay",
+		"first": "Sajjad",
+		"last": "Jamaldeen",
 	},
-	"title": "Full stack web & mobile solutions architect, Cloud & DevOps Advisor",
-	"company": "IBM",
-	"department": "Cloud • Agile • Mobile • User Engagement",
+	"title": "CEO",
+	"company": "The Kairos Store",
+	"department": "Your Event Requirements",
 
 	"columns": {
 		"1": ["phone", "publications", "address","mail"],
@@ -24,59 +24,47 @@ var obj =
 	"section": {
 		"phone": [
 			{
-				"value": "+55 (11) 99659-9059",
+				"value": "+94 777 718531",
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "+55 (11) 2132-2327",
+				"value": "+971 55 2007910",
 				"label": "work"
 			},
 			{
-				"value": "avixⓐbr.ibm.com",
-				"label": "facetime"
-			},
-			{
-				"value": "avibrazilⓐgmail.com",
+				"value": "sajjad.jamaldeen@gmail.com",
 				"label": "hangouts"
 			},
 			{
-				"value": "avibrazil",
+				"value": "sajjad.jamaldeen",
 				"label": "skype"
-			},
-			{
-				"value": "avixⓐibm.webex.com",
-				"label": "SIP"
-			},
-			{
-				"value": "ibm.webex.com/meet/avix",
-				"label": "conference"
 			}
 		],
 
 		"mail": [
 			{
-				"value": "avixⓐbr.ibm.com",
+				"value": "sajjad.jamaldeenⓐthekairostore.com",
 				"label": "work"
 			},
 			{
-				"value": "aviⓐunix.sh",
+				"value": "sajjad.jamaldeen@gmail.com",
 				"label": "personal"
 			},
 		],
 		
 		"social": [
 			{
-				"value": "avibrazil",
+				"value": "Sajjad Jamaldeen",
 				"label": "linkedin"
 			},
 			{
-				"value": "avibrazil",
+				"value": "Sajjad Jamaldeen",
 				"label": "facebook"
 			},
 			{
-				"value": "avibrazil",
+				"value": "sajjadlk",
 				"label": "github"
 			}
 		],
@@ -102,12 +90,10 @@ var obj =
 		"address": [
 			{
 				"label": "work",
-				"street": "Tutóia 1157",
-				"city": "São Paulo",
-				"state": "São Paulo",
-				"country": "Brazil",
-				"zip": "04007-900",
-				"geo": "-23.579975,-46.649241"
+				"street": "18, Jayasinghe Road, Off Balapokuna Road",
+				"city": "Kirulapone, Colombo 06",
+				"country": "Sri Lanka",
+				"geo": "VVCJ+X3 Colombo, Sri Lanka"
 			}
 		],
 		
